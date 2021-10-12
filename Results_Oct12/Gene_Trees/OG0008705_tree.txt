@@ -1,0 +1,1 @@
+(Amphimedon_UP000007879_400682_tr|A0A1X7T8Y0|A0A1X7T8Y0_AMPQE:0.818436,(Niphates_augustus_hints_aa_jg9339.t1:0.0738983,(Niphates_augustus_hints_aa_jg22897.t1:0.056995,Niphates_augustus_hints_aa_jg6594.t1:0.040416):0.248057):0.818436);

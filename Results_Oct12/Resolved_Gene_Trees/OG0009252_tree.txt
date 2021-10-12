@@ -1,0 +1,1 @@
+(Amphimedon_UP000007879_400682_tr|A0A1X7UD59|A0A1X7UD59_AMPQE:0.560415,(Ephydatia_Emu_v1_prots_Em0008g1189a:0.229466,(Ephydatia_Emu_v1_prots_Em0131g4a:0.002246,Ephydatia_Emu_v1_prots_Em0008g1171a:0.003627)n2:0.369341)n1:0.560415)n0;

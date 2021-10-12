@@ -1,0 +1,1 @@
+((Niphates_augustus_hints_aa_jg28179.t1:0.108992,Amphimedon_UP000007879_400682_tr|A0A1X7VNB6|A0A1X7VNB6_AMPQE:0.123576)n1:0.561,(Ephydatia_Emu_v1_prots_Em0018g1033a:0,Ephydatia_Emu_v1_prots_Em0018g1070a:0)n2:0.561)n0;

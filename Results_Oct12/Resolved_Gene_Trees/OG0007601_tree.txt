@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|P00390|GSHR_HUMAN:0.202733,(((Niphates_augustus_hints_aa_jg24123.t1:0,Niphates_augustus_hints_aa_jg30268.t1:0)n3:0.0605221,Amphimedon_UP000007879_400682_tr|A0A1X7VRI0|A0A1X7VRI0_AMPQE:0.0781789)n2:0.146658,Ephydatia_Emu_v1_prots_Em0021g38a:0.687579)n1:0.202733)n0;

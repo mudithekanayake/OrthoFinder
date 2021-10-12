@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q8IWJ2|GCC2_HUMAN:1.14721,(Amphimedon_UP000007879_400682_tr|A0A1X7UV40|A0A1X7UV40_AMPQE:0.465302,(Niphates_augustus_hints_aa_jg19781.t1:3.69106e-06,((Niphates_augustus_hints_aa_jg19781.t2:0,Niphates_augustus_hints_aa_jg27387.t2:0):0.462366,Niphates_augustus_hints_aa_jg27387.t1:0.000471):0.176871):0.468034):1.14721);

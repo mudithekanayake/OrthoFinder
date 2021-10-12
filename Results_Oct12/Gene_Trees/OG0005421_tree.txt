@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|O60290|ZN862_HUMAN:0.665884,(Ephydatia_Emu_v1_prots_Em0001g1303a:3.12107e-06,(Ephydatia_Emu_v1_prots_Em0001g1585a:0.390617,(Ephydatia_Emu_v1_prots_Em0001g1179a:0.0457499,(Ephydatia_Emu_v1_prots_Em0007g1538a:0.355785,Ephydatia_Emu_v1_prots_Em0001g1308a:0.00107035):0.111978):0.181157):0.808133):0.665884);

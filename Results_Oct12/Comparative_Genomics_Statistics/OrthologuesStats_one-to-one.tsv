@@ -1,0 +1,5 @@
+	Amphimedon_UP000007879_400682	Ephydatia_Emu_v1_prots	Human_UP000005640_9606	Niphates_augustus.hints.aa
+Amphimedon_UP000007879_400682	0.0	3503.0	3311.0	6575.0
+Ephydatia_Emu_v1_prots	3503.0	0.0	2578.0	3281.0
+Human_UP000005640_9606	3311.0	2578.0	0.0	3199.0
+Niphates_augustus.hints.aa	6575.0	3281.0	3199.0	0.0

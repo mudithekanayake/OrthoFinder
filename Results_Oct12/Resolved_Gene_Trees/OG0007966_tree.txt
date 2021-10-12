@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|P41217|OX2G_HUMAN:1.03626,((Ephydatia_Emu_v1_prots_Em0015g185a:0.16234,Ephydatia_Emu_v1_prots_Em0015g194a:0.0626837)n2:0.504485,(Ephydatia_Emu_v1_prots_Em0015g184a:0,Ephydatia_Emu_v1_prots_Em0015g193a:0)n3:0.591154)n1:1.03626)n0;

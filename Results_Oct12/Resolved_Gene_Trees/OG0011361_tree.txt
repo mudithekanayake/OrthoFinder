@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q96BT7|ALKB8_HUMAN:0.829986,(Ephydatia_Emu_v1_prots_Em0022g164a:3.87575e-06,(Ephydatia_Emu_v1_prots_Em0022g163a:1.91361,Ephydatia_Emu_v1_prots_Em0872g1a:3.87575e-06)n2:0.424498)n1:0.829986)n0;

@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q9C0C7|AMRA1_HUMAN:1.11438,((Ephydatia_Emu_v1_prots_Em0013g638a:2.76074e-06,Ephydatia_Emu_v1_prots_Em0235g3a:0.531977):0.0265965,Ephydatia_Emu_v1_prots_Em0013g653a:0):1.11438);

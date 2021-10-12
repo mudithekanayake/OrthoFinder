@@ -1,0 +1,1 @@
+(Niphates_augustus_hints_aa_jg24339.t1:0.856588,((Ephydatia_Emu_v1_prots_Em0526g1a:0.0351352,(Ephydatia_Emu_v1_prots_Em0023g136a:0.431535,Ephydatia_Emu_v1_prots_Em0023g147a:3.07866e-06)n3:0.605724)n2:0.528727,Ephydatia_Emu_v1_prots_Em0023g137a:0.0462365)n1:0.856588)n0;

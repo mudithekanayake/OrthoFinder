@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q6ZRQ5|MMS22_HUMAN:0.734474,(((Ephydatia_Emu_v1_prots_Em0023g329a:0.574021,Ephydatia_Emu_v1_prots_Em0437g1a:4.96762e-06)n3:0.468939,Ephydatia_Emu_v1_prots_Em0023g328a:0.100521)n2:1.13057,Niphates_augustus_hints_aa_jg18537.t1:1.27843)n1:0.734474)n0;

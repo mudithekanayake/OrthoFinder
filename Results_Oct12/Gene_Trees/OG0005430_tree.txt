@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q96RQ9|OXLA_HUMAN:0.634802,(((Ephydatia_Emu_v1_prots_Em0005g1116a:0.334532,(Ephydatia_Emu_v1_prots_Em0001g2013a:0.2488,Ephydatia_Emu_v1_prots_Em0001g1965a:0.065197):0.142139):0.0373014,Ephydatia_Emu_v1_prots_Em0005g1427a:0.311859):0.657725,Ephydatia_Emu_v1_prots_Em0019g125a:2.91587e-06):0.634802);

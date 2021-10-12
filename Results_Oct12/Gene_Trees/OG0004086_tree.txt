@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q9Y334|VWA7_HUMAN:0.653636,(Ephydatia_Emu_v1_prots_Em0015g926a:1.3773,(Ephydatia_Emu_v1_prots_Em0015g927a:0.724461,(Ephydatia_Emu_v1_prots_Em0015g929a:5.64855e-06,((Ephydatia_Emu_v1_prots_Em0015g928a:0.374025,Ephydatia_Emu_v1_prots_Em0015g923a:0.519057):0.670763,Ephydatia_Emu_v1_prots_Em0015g924a:5.64855e-06):0.246461):0.154643):0.465096):0.653636);

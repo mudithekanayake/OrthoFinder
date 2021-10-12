@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q9UM22|EPDR1_HUMAN:0.673934,(Ephydatia_Emu_v1_prots_Em0402g3a:0.313826,((Ephydatia_Emu_v1_prots_Em0019g263a:0.327773,Ephydatia_Emu_v1_prots_Em0019g272a:2.55657e-06)n3:0.288886,Ephydatia_Emu_v1_prots_Em0019g273a:0.11026)n2:0.236618)n1:0.673934)n0;

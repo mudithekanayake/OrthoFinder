@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q9C0B7|TNG6_HUMAN:0.546016,((Ephydatia_Emu_v1_prots_Em0714g7a:0.328869,Ephydatia_Emu_v1_prots_Em0020g1000a:3.79131e-06)n2:0.781915,(Amphimedon_UP000007879_400682_tr|A0A1X7V8A1|A0A1X7V8A1_AMPQE:0.044813,(Niphates_augustus_hints_aa_jg7940.t1:0.455091,Niphates_augustus_hints_aa_jg7941.t1:0.724829)n4:0.0805366)n3:0.328935)n1:0.546016)n0;

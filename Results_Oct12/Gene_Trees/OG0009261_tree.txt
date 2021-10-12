@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q96NC0|ZMAT2_HUMAN:0.193781,((Niphates_augustus_hints_aa_jg20892.t1:5e-07,Niphates_augustus_hints_aa_jg24091.t1:5e-07):0.153502,Amphimedon_UP000007879_400682_tr|A0A1X7UDM7|A0A1X7UDM7_AMPQE:0.154255):0.193781);

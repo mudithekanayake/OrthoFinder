@@ -1,0 +1,1 @@
+(Niphates_augustus_hints_aa_jg12550.t3:2.74632e-06,(((Niphates_augustus_hints_aa_jg683.t1:0.557724,Niphates_augustus_hints_aa_jg1269.t1:0.979345):0.905812,Niphates_augustus_hints_aa_jg12550.t1:0.0323069):0.265071,Niphates_augustus_hints_aa_jg12550.t2:0.00619512):2.74632e-06);

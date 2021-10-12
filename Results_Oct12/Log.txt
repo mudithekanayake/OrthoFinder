@@ -1,0 +1,14 @@
+2021-10-12 08:58:16 : Started OrthoFinder version 2.5.4
+Command Line: /home/mudith/.conda/envs/orthofinder/bin/orthofinder -f proteomes/
+
+WorkingDirectory_Base: /work/LAS/dlavrov-lab/dlavrov-lab/mudith/project_niphates/orthofinder/proteomes/OrthoFinder/Results_Oct12/WorkingDirectory/
+
+Species used: 
+0: Amphimedon_UP000007879_400682.fasta
+1: Ephydatia_Emu_v1_prots.fasta
+2: Human_UP000005640_9606.fasta
+3: Niphates_augustus.hints.aa.fasta
+
+FN_Orthogroups: /work/LAS/dlavrov-lab/dlavrov-lab/mudith/project_niphates/orthofinder/proteomes/OrthoFinder/Results_Oct12/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: /work/LAS/dlavrov-lab/dlavrov-lab/mudith/project_niphates/orthofinder/proteomes/OrthoFinder/Results_Oct12/WorkingDirectory/
+2021-10-12 09:20:55 : OrthoFinder run completed

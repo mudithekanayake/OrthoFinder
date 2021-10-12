@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|Q9UBY8|CLN8_HUMAN:0.450466,((Ephydatia_Emu_v1_prots_Em0001g2385a:0.0615442,(Ephydatia_Emu_v1_prots_Em0001g2387a:0.0616932,Ephydatia_Emu_v1_prots_Em0001g2386a:0.0457758):0.0138719):0.472838,(Ephydatia_Emu_v1_prots_Em0021g251a:0.0379024,Ephydatia_Emu_v1_prots_Em0021g250a:0.0598346):0.218234):0.450466);

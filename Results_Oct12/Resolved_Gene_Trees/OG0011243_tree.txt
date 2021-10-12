@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|P30043|BLVRB_HUMAN:0.704873,((Ephydatia_Emu_v1_prots_Em0008g866a:0.028793,Ephydatia_Emu_v1_prots_Em0008g864a:0.018938)n2:0.154327,Ephydatia_Emu_v1_prots_Em0008g862a:0.29701)n1:0.704873)n0;

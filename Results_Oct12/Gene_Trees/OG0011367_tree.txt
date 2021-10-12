@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|A6NGE7|URAD_HUMAN:0.528546,(Ephydatia_Emu_v1_prots_Em0023g225a:1.68005e-06,(Ephydatia_Emu_v1_prots_Em0023g221a:0.674984,Ephydatia_Emu_v1_prots_Em0023g216a:1.68005e-06):0.09295):0.528546);

@@ -1,0 +1,1 @@
+(((Niphates_augustus_hints_aa_jg19210.t1:0.298257,Niphates_augustus_hints_aa_jg19210.t2:0.0221766)n2:0.426004,(Ephydatia_Emu_v1_prots_Em0016g1033a:1.76454e-06,Ephydatia_Emu_v1_prots_Em0016g1036a:0.0323314)n3:0.345854)n1:0.084815,(Human_UP000005640_9606_sp|O95461|LARG1_HUMAN:0.21353,Human_UP000005640_9606_sp|Q8N3Y3|LARG2_HUMAN:0.25817)n4:0.084815)n0;

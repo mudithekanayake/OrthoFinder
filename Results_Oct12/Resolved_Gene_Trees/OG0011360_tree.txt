@@ -1,0 +1,1 @@
+(Ephydatia_Emu_v1_prots_Em0021g901a:0.151107,((Ephydatia_Emu_v1_prots_Em0021g907a:0.257019,Ephydatia_Emu_v1_prots_Em0021g928a:0.0239057)n2:0.378156,Ephydatia_Emu_v1_prots_Em0021g899a:0.0665942)n1:0.151107)n0;

@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|P10619|PPGB_HUMAN:0.336196,(((Ephydatia_Emu_v1_prots_Em0019g66a:0.111155,Ephydatia_Emu_v1_prots_Em0019g65a:0.123831):0.162785,Niphates_augustus_hints_aa_jg28089.t1:0.50836):0.249384,Ephydatia_Emu_v1_prots_Em0018g153a:0.675397):0.336196);

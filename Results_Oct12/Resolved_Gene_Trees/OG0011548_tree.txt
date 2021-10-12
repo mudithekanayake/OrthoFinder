@@ -1,0 +1,1 @@
+(Human_UP000005640_9606_sp|P48047|ATPO_HUMAN:0.428367,(Niphates_augustus_hints_aa_jg14161.t1:0.412066,(Niphates_augustus_hints_aa_jg14156.t1:0.0135233,Niphates_augustus_hints_aa_jg8598.t1:0.00299766)n2:0.0350175)n1:0.428367)n0;

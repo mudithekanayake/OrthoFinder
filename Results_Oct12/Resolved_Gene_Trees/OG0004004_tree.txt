@@ -1,0 +1,1 @@
+(Ephydatia_Emu_v1_prots_Em0007g852a:0.0302106,(Ephydatia_Emu_v1_prots_Em0007g821a:0.0595769,((Ephydatia_Emu_v1_prots_Em0074g9a:0.012555,Ephydatia_Emu_v1_prots_Em0005g1685a:0.018956)n3:0.248294,((Ephydatia_Emu_v1_prots_Em0001g372a:0.0248969,Ephydatia_Emu_v1_prots_Em0001g369a:0.32779)n5:0.03376,Ephydatia_Emu_v1_prots_Em0001g381a:0.089287)n4:0.0549863)n2:0.202222)n1:0.0302106)n0;
